@@ -1,0 +1,34 @@
+@import "tailwindcss";
+@import "./tailwind.css";
+@import "@angular/material/prebuilt-themes/deeppurple-amber.css";
+@import "@angular/material/prebuilt-themes/pink-bluegrey.css";
+
+
+html, body { height: 100%; }
+body { margin: 0; background: #070A14; }
+/* ✅ щоб dropdown у темній темі не був "білий текст на білому" */
+select, option {
+  color: #0b1020;
+}
+
+select {
+  background: rgba(255,255,255,0.06);
+  color: #ffffff;
+}
+
+select option {
+  background: #ffffff;
+  color: #0b1020;
+}
+
+/* якщо десь матеріалівські панелі (на випадок MatSelect/MatMenu) */
+.mat-mdc-select-panel,
+.mat-mdc-menu-panel {
+  background: #0b1020 !important;
+  color: #ffffff !important;
+}
+
+.mat-mdc-option,
+.mat-mdc-menu-item {
+  color: #ffffff !important;
+}

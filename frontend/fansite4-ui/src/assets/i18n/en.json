@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "filterAll": "All",
+    "filterPerson": "Characters",
+    "filterWeapon": "Weapons",
+    "filterMission": "Missions",
+    "searchPlaceholder": "Search...",
+    "about": "About",
+    "admin": "Admin",
+    "newArticle": "New Article",
+    "reports": "Reports",
+    "articles": "Articles",
+    "login": "Login",
+    "register": "Register",
+    "account": "Account",
+    "logout": "Logout"
+  },
+  "catalog": {
+    "title": "Catalog",
+    "subtitle": "Pick an article or use search",
+    "empty": "Nothing found"
+  },
+  "common": {
+    "back": "Back",
+    "report": "Report"
+  },
+  "admin": {
+    "edit": "Edit",
+    "delete": "Delete"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "filterAll": "Усі",
+    "filterPerson": "Персонажі",
+    "filterWeapon": "Зброя",
+    "filterMission": "Місії",
+    "searchPlaceholder": "Пошук...",
+    "about": "Про проєкт",
+    "admin": "Адмін",
+    "newArticle": "Нова стаття",
+    "reports": "Скарги",
+    "articles": "Статті",
+    "login": "Увійти",
+    "register": "Реєстрація",
+    "account": "Акаунт",
+    "logout": "Вийти"
+  },
+  "common": { "back": "Назад", "report": "Поскаржитися" },
+  "comments": { "title": "Коментарі", "placeholder": "Напишіть коментар...", "send": "Надіслати" },
+  "admin": { "edit": "Редагувати", "delete": "Видалити" }
+}
