@@ -1,0 +1,761 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FanSite4\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|e:\\fansite4\\backend\\src\\fansite4.api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|solutionrelative:src\\fansite4.api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|e:\\fansite4\\backend\\src\\fansite4.api\\fansite4.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|solutionrelative:src\\fansite4.api\\fansite4.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|e:\\fansite4\\backend\\src\\fansite4.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|solutionrelative:src\\fansite4.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|e:\\fansite4\\backend\\src\\fansite4.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|solutionrelative:src\\fansite4.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|e:\\fansite4\\backend\\src\\fansite4.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|solutionrelative:src\\fansite4.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|e:\\fansite4\\backend\\src\\fansite4.api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|solutionrelative:src\\fansite4.api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|e:\\fansite4\\backend\\src\\fansite4.api\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|solutionrelative:src\\fansite4.api\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|e:\\fansite4\\backend\\src\\fansite4.api\\contracts\\comments\\commentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|solutionrelative:src\\fansite4.api\\contracts\\comments\\commentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|e:\\fansite4\\backend\\src\\fansite4.infrastructure\\services\\reactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|solutionrelative:src\\fansite4.infrastructure\\services\\reactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|e:\\fansite4\\backend\\src\\fansite4.infrastructure\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|solutionrelative:src\\fansite4.infrastructure\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|e:\\fansite4\\backend\\src\\fansite4.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|solutionrelative:src\\fansite4.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|e:\\fansite4\\backend\\src\\fansite4.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|solutionrelative:src\\fansite4.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|e:\\fansite4\\backend\\src\\fansite4.application\\abstractions\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|solutionrelative:src\\fansite4.application\\abstractions\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|e:\\fansite4\\backend\\src\\fansite4.api\\controllers\\uploadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|solutionrelative:src\\fansite4.api\\controllers\\uploadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|e:\\fansite4\\backend\\src\\fansite4.infrastructure\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|solutionrelative:src\\fansite4.infrastructure\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|e:\\fansite4\\backend\\src\\fansite4.infrastructure\\auth\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|solutionrelative:src\\fansite4.infrastructure\\auth\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|e:\\fansite4\\backend\\src\\fansite4.infrastructure\\auth\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|solutionrelative:src\\fansite4.infrastructure\\auth\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|e:\\fansite4\\backend\\src\\fansite4.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|solutionrelative:src\\fansite4.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|e:\\fansite4\\backend\\src\\fansite4.infrastructure\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|solutionrelative:src\\fansite4.infrastructure\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|e:\\fansite4\\backend\\src\\fansite4.infrastructure\\seeding\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|solutionrelative:src\\fansite4.infrastructure\\seeding\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|e:\\fansite4\\backend\\src\\fansite4.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|solutionrelative:src\\fansite4.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|e:\\fansite4\\backend\\src\\fansite4.infrastructure\\fansite4.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|solutionrelative:src\\fansite4.infrastructure\\fansite4.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|e:\\fansite4\\backend\\src\\fansite4.infrastructure\\services\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD9F367-4D92-474E-82C2-3E02FFE363CC}|src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj|solutionrelative:src\\fansite4.infrastructure\\services\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|e:\\fansite4\\backend\\src\\fansite4.domain\\fansite4.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|solutionrelative:src\\fansite4.domain\\fansite4.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|e:\\fansite4\\backend\\src\\fansite4.api\\controllers\\reactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C9D210-9EE9-40EF-B40B-6604EFEDB213}|src\\FanSite4.Api\\FanSite4.Api.csproj|solutionrelative:src\\fansite4.api\\controllers\\reactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|e:\\fansite4\\backend\\src\\fansite4.application\\abstractions\\ireactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|solutionrelative:src\\fansite4.application\\abstractions\\ireactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|e:\\fansite4\\backend\\src\\fansite4.application\\abstractions\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|solutionrelative:src\\fansite4.application\\abstractions\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|e:\\fansite4\\backend\\src\\fansite4.application\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|solutionrelative:src\\fansite4.application\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|e:\\fansite4\\backend\\src\\fansite4.application\\fansite4.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|solutionrelative:src\\fansite4.application\\fansite4.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|e:\\fansite4\\backend\\src\\fansite4.application\\dtos\\reports\\reportdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|solutionrelative:src\\fansite4.application\\dtos\\reports\\reportdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|e:\\fansite4\\backend\\src\\fansite4.application\\dtos\\reactions\\togglereactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|solutionrelative:src\\fansite4.application\\dtos\\reactions\\togglereactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|e:\\fansite4\\backend\\src\\fansite4.application\\dtos\\articles\\articledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|solutionrelative:src\\fansite4.application\\dtos\\articles\\articledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|e:\\fansite4\\backend\\src\\fansite4.application\\dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|solutionrelative:src\\fansite4.application\\dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|e:\\fansite4\\backend\\src\\fansite4.application\\dtos\\auth\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|solutionrelative:src\\fansite4.application\\dtos\\auth\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|e:\\fansite4\\backend\\src\\fansite4.application\\dtos\\auth\\refreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|solutionrelative:src\\fansite4.application\\dtos\\auth\\refreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|e:\\fansite4\\backend\\src\\fansite4.application\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|solutionrelative:src\\fansite4.application\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|e:\\fansite4\\backend\\src\\fansite4.application\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1EC096-7F7D-4DF7-9FA8-212CCCBE264E}|src\\FanSite4.Application\\FanSite4.Application.csproj|solutionrelative:src\\fansite4.application\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|e:\\fansite4\\backend\\src\\fansite4.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|solutionrelative:src\\fansite4.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|e:\\fansite4\\backend\\src\\fansite4.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|solutionrelative:src\\fansite4.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|e:\\fansite4\\backend\\src\\fansite4.domain\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|solutionrelative:src\\fansite4.domain\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|e:\\fansite4\\backend\\src\\fansite4.domain\\entities\\reaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|solutionrelative:src\\fansite4.domain\\entities\\reaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|e:\\fansite4\\backend\\src\\fansite4.domain\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|solutionrelative:src\\fansite4.domain\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|e:\\fansite4\\backend\\src\\fansite4.domain\\enums\\reportstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|solutionrelative:src\\fansite4.domain\\enums\\reportstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|e:\\fansite4\\backend\\src\\fansite4.domain\\enums\\reactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|solutionrelative:src\\fansite4.domain\\enums\\reactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|e:\\fansite4\\backend\\src\\fansite4.domain\\enums\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|solutionrelative:src\\fansite4.domain\\enums\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|e:\\fansite4\\backend\\src\\fansite4.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D90066-FF52-4374-B686-C917BF0F9BC6}|src\\FanSite4.Domain\\FanSite4.Domain.csproj|solutionrelative:src\\fansite4.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentDtos.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Contracts\\Comments\\CommentDtos.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Api\\Contracts\\Comments\\CommentDtos.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Contracts\\Comments\\CommentDtos.cs",
+              "RelativeToolTip": "src\\FanSite4.Api\\Contracts\\Comments\\CommentDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T21:07:07.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Api\\Controllers\\ArticlesController.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "src\\FanSite4.Api\\Controllers\\ArticlesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:59:13.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\FanSite4.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:58:41.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Api\\Controllers\\CommentsController.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "src\\FanSite4.Api\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T20:23:25.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\FanSite4.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAQwLsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:48:54.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Api\\Controllers\\ReportsController.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "src\\FanSite4.Api\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:00:32.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FanSite4.Api.csproj",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\FanSite4.Api.csproj",
+              "RelativeDocumentMoniker": "src\\FanSite4.Api\\FanSite4.Api.csproj",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\FanSite4.Api.csproj",
+              "RelativeToolTip": "src\\FanSite4.Api\\FanSite4.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-13T11:45:09.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\FanSite4.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:54:40.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReactionService.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Services\\ReactionService.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Infrastructure\\Services\\ReactionService.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Services\\ReactionService.cs",
+              "RelativeToolTip": "src\\FanSite4.Infrastructure\\Services\\ReactionService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:13:59.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Infrastructure\\Services\\ReportService.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Services\\ReportService.cs",
+              "RelativeToolTip": "src\\FanSite4.Infrastructure\\Services\\ReportService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:17:09.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\FanSite4.Api\\appsettings.json",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\appsettings.json",
+              "RelativeToolTip": "src\\FanSite4.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T10:56:10.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Api\\Program.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Program.cs",
+              "RelativeToolTip": "src\\FanSite4.Api\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwHMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:58:08.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Auth\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Infrastructure\\Auth\\JwtOptions.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Auth\\JwtOptions.cs",
+              "RelativeToolTip": "src\\FanSite4.Infrastructure\\Auth\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAYAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:50:29.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UploadsController.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Controllers\\UploadsController.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Api\\Controllers\\UploadsController.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Controllers\\UploadsController.cs",
+              "RelativeToolTip": "src\\FanSite4.Api\\Controllers\\UploadsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T16:46:17.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\Abstractions\\IReportService.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Application\\Abstractions\\IReportService.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\Abstractions\\IReportService.cs",
+              "RelativeToolTip": "src\\FanSite4.Application\\Abstractions\\IReportService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:45:31.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Auth\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Infrastructure\\Auth\\JwtTokenService.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Auth\\JwtTokenService.cs",
+              "RelativeToolTip": "src\\FanSite4.Infrastructure\\Auth\\JwtTokenService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:53:13.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Auth\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Infrastructure\\Auth\\IJwtTokenService.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Auth\\IJwtTokenService.cs",
+              "RelativeToolTip": "src\\FanSite4.Infrastructure\\Auth\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:52:07.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminSeeder.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Seeding\\AdminSeeder.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Infrastructure\\Seeding\\AdminSeeder.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Seeding\\AdminSeeder.cs",
+              "RelativeToolTip": "src\\FanSite4.Infrastructure\\Seeding\\AdminSeeder.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:08:59.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Infrastructure\\Auth\\AuthService.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Auth\\AuthService.cs",
+              "RelativeToolTip": "src\\FanSite4.Infrastructure\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:53:46.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Domain\\Entities\\Comment.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "src\\FanSite4.Domain\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T09:43:53.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\FanSite4.Api\\appsettings.Development.json",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\FanSite4.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T14:04:26.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FanSite4.Infrastructure.csproj",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj",
+              "RelativeToolTip": "src\\FanSite4.Infrastructure\\FanSite4.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-13T12:05:25.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Services\\ArticleService.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Infrastructure\\Services\\ArticleService.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Infrastructure\\Services\\ArticleService.cs",
+              "RelativeToolTip": "src\\FanSite4.Infrastructure\\Services\\ArticleService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:13:14.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FanSite4.Domain.csproj",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\FanSite4.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\FanSite4.Domain\\FanSite4.Domain.csproj",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\FanSite4.Domain.csproj",
+              "RelativeToolTip": "src\\FanSite4.Domain\\FanSite4.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-13T11:06:58.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReactionsController.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Controllers\\ReactionsController.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Api\\Controllers\\ReactionsController.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Api\\Controllers\\ReactionsController.cs",
+              "RelativeToolTip": "src\\FanSite4.Api\\Controllers\\ReactionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:00:04.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IReactionService.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\Abstractions\\IReactionService.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Application\\Abstractions\\IReactionService.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\Abstractions\\IReactionService.cs",
+              "RelativeToolTip": "src\\FanSite4.Application\\Abstractions\\IReactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:43:54.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IArticleService.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\Abstractions\\IArticleService.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Application\\Abstractions\\IArticleService.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\Abstractions\\IArticleService.cs",
+              "RelativeToolTip": "src\\FanSite4.Application\\Abstractions\\IArticleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:43:08.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\Abstractions\\IAuthService.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Application\\Abstractions\\IAuthService.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\Abstractions\\IAuthService.cs",
+              "RelativeToolTip": "src\\FanSite4.Application\\Abstractions\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:41:50.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FanSite4.Application.csproj",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\FanSite4.Application.csproj",
+              "RelativeDocumentMoniker": "src\\FanSite4.Application\\FanSite4.Application.csproj",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\FanSite4.Application.csproj",
+              "RelativeToolTip": "src\\FanSite4.Application\\FanSite4.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-13T10:41:36.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReportDtos.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Reports\\ReportDtos.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Application\\DTOs\\Reports\\ReportDtos.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Reports\\ReportDtos.cs",
+              "RelativeToolTip": "src\\FanSite4.Application\\DTOs\\Reports\\ReportDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:41:04.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ToggleReactionRequest.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Reactions\\ToggleReactionRequest.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Application\\DTOs\\Reactions\\ToggleReactionRequest.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Reactions\\ToggleReactionRequest.cs",
+              "RelativeToolTip": "src\\FanSite4.Application\\DTOs\\Reactions\\ToggleReactionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:37:48.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ArticleDtos.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Articles\\ArticleDtos.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Application\\DTOs\\Articles\\ArticleDtos.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Articles\\ArticleDtos.cs",
+              "RelativeToolTip": "src\\FanSite4.Application\\DTOs\\Articles\\ArticleDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:37:04.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Auth\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Application\\DTOs\\Auth\\AuthResponse.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Auth\\AuthResponse.cs",
+              "RelativeToolTip": "src\\FanSite4.Application\\DTOs\\Auth\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:34:17.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Auth\\UserDto.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Application\\DTOs\\Auth\\UserDto.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Auth\\UserDto.cs",
+              "RelativeToolTip": "src\\FanSite4.Application\\DTOs\\Auth\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:33:06.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RefreshRequest.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Auth\\RefreshRequest.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Application\\DTOs\\Auth\\RefreshRequest.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Auth\\RefreshRequest.cs",
+              "RelativeToolTip": "src\\FanSite4.Application\\DTOs\\Auth\\RefreshRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:32:38.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Application\\DTOs\\Auth\\LoginRequest.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "src\\FanSite4.Application\\DTOs\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:31:35.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Application\\DTOs\\Auth\\RegisterRequest.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Application\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "src\\FanSite4.Application\\DTOs\\Auth\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T09:46:53.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "src\\FanSite4.Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T09:46:03.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Report.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Entities\\Report.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Domain\\Entities\\Report.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Entities\\Report.cs",
+              "RelativeToolTip": "src\\FanSite4.Domain\\Entities\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T09:45:26.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Reaction.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Entities\\Reaction.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Domain\\Entities\\Reaction.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Entities\\Reaction.cs",
+              "RelativeToolTip": "src\\FanSite4.Domain\\Entities\\Reaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T09:44:21.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Article.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Domain\\Entities\\Article.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Entities\\Article.cs",
+              "RelativeToolTip": "src\\FanSite4.Domain\\Entities\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T09:43:25.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "src\\FanSite4.Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T09:43:03.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ReportStatus.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Enums\\ReportStatus.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Domain\\Enums\\ReportStatus.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Enums\\ReportStatus.cs",
+              "RelativeToolTip": "src\\FanSite4.Domain\\Enums\\ReportStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T09:37:37.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ReactionType.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Enums\\ReactionType.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Domain\\Enums\\ReactionType.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Enums\\ReactionType.cs",
+              "RelativeToolTip": "src\\FanSite4.Domain\\Enums\\ReactionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T09:37:15.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ArticleCategory.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Enums\\ArticleCategory.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Domain\\Enums\\ArticleCategory.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Enums\\ArticleCategory.cs",
+              "RelativeToolTip": "src\\FanSite4.Domain\\Enums\\ArticleCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T09:36:37.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "src\\FanSite4.Domain\\Enums\\UserRole.cs",
+              "ToolTip": "E:\\FanSite4\\backend\\src\\FanSite4.Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "src\\FanSite4.Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T09:32:44.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+E:\FanSite4\backend\src\FanSite4.Domain\bin\Debug\net10.0\FanSite4.Domain.deps.json
+E:\FanSite4\backend\src\FanSite4.Domain\bin\Debug\net10.0\FanSite4.Domain.dll
+E:\FanSite4\backend\src\FanSite4.Domain\bin\Debug\net10.0\FanSite4.Domain.pdb
+E:\FanSite4\backend\src\FanSite4.Domain\obj\Debug\net10.0\FanSite4.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\FanSite4\backend\src\FanSite4.Domain\obj\Debug\net10.0\FanSite4.Domain.AssemblyInfoInputs.cache
+E:\FanSite4\backend\src\FanSite4.Domain\obj\Debug\net10.0\FanSite4.Domain.AssemblyInfo.cs
+E:\FanSite4\backend\src\FanSite4.Domain\obj\Debug\net10.0\FanSite4.Domain.csproj.CoreCompileInputs.cache
+E:\FanSite4\backend\src\FanSite4.Domain\obj\Debug\net10.0\FanSite4.Domain.dll
+E:\FanSite4\backend\src\FanSite4.Domain\obj\Debug\net10.0\refint\FanSite4.Domain.dll
+E:\FanSite4\backend\src\FanSite4.Domain\obj\Debug\net10.0\FanSite4.Domain.pdb
+E:\FanSite4\backend\src\FanSite4.Domain\obj\Debug\net10.0\ref\FanSite4.Domain.dll

@@ -1,0 +1,15 @@
+E:\FanSite4\backend\src\FanSite4.Application\bin\Debug\net10.0\FanSite4.Application.deps.json
+E:\FanSite4\backend\src\FanSite4.Application\bin\Debug\net10.0\FanSite4.Application.dll
+E:\FanSite4\backend\src\FanSite4.Application\bin\Debug\net10.0\FanSite4.Application.pdb
+E:\FanSite4\backend\src\FanSite4.Application\bin\Debug\net10.0\FanSite4.Domain.dll
+E:\FanSite4\backend\src\FanSite4.Application\bin\Debug\net10.0\FanSite4.Domain.pdb
+E:\FanSite4\backend\src\FanSite4.Application\obj\Debug\net10.0\FanSite4.Application.csproj.AssemblyReference.cache
+E:\FanSite4\backend\src\FanSite4.Application\obj\Debug\net10.0\FanSite4.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\FanSite4\backend\src\FanSite4.Application\obj\Debug\net10.0\FanSite4.Application.AssemblyInfoInputs.cache
+E:\FanSite4\backend\src\FanSite4.Application\obj\Debug\net10.0\FanSite4.Application.AssemblyInfo.cs
+E:\FanSite4\backend\src\FanSite4.Application\obj\Debug\net10.0\FanSite4.Application.csproj.CoreCompileInputs.cache
+E:\FanSite4\backend\src\FanSite4.Application\obj\Debug\net10.0\FanSite4.B4F52B4A.Up2Date
+E:\FanSite4\backend\src\FanSite4.Application\obj\Debug\net10.0\FanSite4.Application.dll
+E:\FanSite4\backend\src\FanSite4.Application\obj\Debug\net10.0\refint\FanSite4.Application.dll
+E:\FanSite4\backend\src\FanSite4.Application\obj\Debug\net10.0\FanSite4.Application.pdb
+E:\FanSite4\backend\src\FanSite4.Application\obj\Debug\net10.0\ref\FanSite4.Application.dll

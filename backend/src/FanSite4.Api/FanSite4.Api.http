@@ -1,0 +1,6 @@
+@FanSite4.Api_HostAddress = http://localhost:5183
+
+GET {{FanSite4.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

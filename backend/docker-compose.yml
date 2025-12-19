@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: fansite4-postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: fansite4db
+    ports:
+      - "5432:5432"
+    volumes:
+      - fansite4_pgdata:/var/lib/postgresql/data
+
+volumes:
+  fansite4_pgdata:

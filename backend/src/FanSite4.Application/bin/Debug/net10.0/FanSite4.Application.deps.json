@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FanSite4.Application/1.0.0": {
+        "dependencies": {
+          "FanSite4.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FanSite4.Application.dll": {}
+        }
+      },
+      "FanSite4.Domain/1.0.0": {
+        "runtime": {
+          "FanSite4.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FanSite4.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FanSite4.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
